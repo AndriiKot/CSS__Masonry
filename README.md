@@ -1,6 +1,6 @@
 # Masonry    
 
-[mobile](#mobile) [laptop](#laptop) [technologies](#technologies) [tools](#tools)
+[mobile](#mobile)   [laptop](#laptop)   [technologies](#technologies)   [tools](#tools)
 
 ## Desktop
 <img src="https://github.com/AndriiKot/CSS__Masonry/blob/main/preview/desktop.png" alt="Desktop preview">
