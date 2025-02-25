@@ -12,7 +12,7 @@
 ## Mobile
 <img src="https://github.com/AndriiKot/CSS__Masonry/blob/main/preview/mobile.png" alt="Mobile preview">
 
-### :
+### Technologies
 
 <table>
   <thead>
